@@ -1,0 +1,10 @@
+extra instructions for first time set of database..
+create the schema manually and ensure ddl is not activated
+toggle between 4200 and heroku links
+remember to set the env variables
+
+to build
+mvn clean install
+
+permit access the cleaner approach
+https://stackoverflow.com/questions/24916894/serving-static-web-resources-in-spring-boot-spring-security-application
